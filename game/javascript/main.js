@@ -24,9 +24,9 @@ function preload() {
   // this.load.image('A321', 'res/A321neo_CFM_AIB_VR.png');
   this.load.image('A321', 'https://airbus-h.assetsadobe2.com/is/image/content/dam/channel-specific/website-/products-and-services/aircraft/aircraft_specifications/passengers/A321neo_CFM_AIB_VR.png?wid=123&fit=constrain,1&fmt=png-alpha')
 
-  this.load.image('sky', 'http://labs.phaser.io/assets/skies/space3.png')
-  this.load.image('logo', 'http://labs.phaser.io/assets/sprites/phaser3-logo.png')
-  this.load.image('red', 'http://labs.phaser.io/assets/particles/red.png')
+  this.load.image('sky', 'https://labs.phaser.io/assets/skies/space3.png')
+  this.load.image('logo', 'https://labs.phaser.io/assets/sprites/phaser3-logo.png')
+  this.load.image('red', 'https://labs.phaser.io/assets/particles/red.png')
 }
 
 function create() {
